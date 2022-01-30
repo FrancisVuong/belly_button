@@ -1,7 +1,7 @@
 # belly_button
 
 ## Project Overview
-This project focuses on building an interactive dashboard to visualize data provided through our Data Source. We worked with Roza to complete the partial dashboard she provided, integrating and visualizing the data. 
+Roza has provided us data on bacteria species samples from volunteer's belly buttons. This project focuses on building an interactive dashboard to visualize data provided through our Data Source. We worked with Roza to complete the partial dashboard she provided, integrating and visualizing the belly button data. 
 
 ## Resources
 - Data Source: [samples data](https://github.com/FrancisVuong/belly_button/blob/main/samples.json)
