@@ -10,4 +10,5 @@ Roza has provided us data on bacteria species samples from volunteer's belly but
 ### Link to Belly Button webpage
 The deployed webpage is accessible at: [https://francisvuong.github.io/belly_button/](https://francisvuong.github.io/belly_button/).
 
-Website Screenshot: https://github.com/FrancisVuong/belly_button/blob/main/screenshot.PNG?raw=true
+Website Screenshot: 
+![image](https://user-images.githubusercontent.com/92435456/151695053-f9354a30-0f7a-4a42-a5dd-1349ade690f3.png)
