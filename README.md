@@ -8,7 +8,5 @@ Roza has provided us data on bacteria species samples from volunteer's belly but
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
 
 ### Link to Belly Button webpage
-The deployed webpage is accessible at: 
-[https://francisvuong.github.io/belly_button/](https://francisvuong.github.io/belly_button/).
-Website Screenshot:
-https://github.com/FrancisVuong/belly_button/blob/main/screenshot.PNG?raw=true
+The deployed webpage is accessible at: [https://francisvuong.github.io/belly_button/](https://francisvuong.github.io/belly_button/).
+Website Screenshot:https://github.com/FrancisVuong/belly_button/blob/main/screenshot.PNG?raw=true
